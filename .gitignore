@@ -1,0 +1,45 @@
+# Java compiled files
+*.class
+
+# Log files
+*.log
+
+# BlueJ config files
+*.ctxt
+
+# Mobile Tools for Java
+.mtj.tmp/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# VS Code
+.vscode/
+
+# macOS system file
+.DS_Store
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# JavaFX SDK libraries (if included manually)
+lib/
+
+# H2 database temp files
+*.mv.db
+*.trace.db
